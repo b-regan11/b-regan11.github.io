@@ -18,7 +18,7 @@ import /
           <br>
           Email: regan.william11@gmail.com
           <br>
-          LinkedIn: <a href="https://www.linkedin.com/in/williamaregan/">www.linkedin.com/in/williamaregan/</a>
+          LinkedIn: <a href="https://www.linkedin.com/in/williamaregan/" target="_blank">www.linkedin.com/in/williamaregan/</a>
         </p>
     </div>
   </div>
